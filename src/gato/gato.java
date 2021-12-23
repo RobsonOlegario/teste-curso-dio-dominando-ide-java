@@ -62,13 +62,6 @@ public class gato {
 	}
 	
 	
-	
-	/*public gato(String nome, String cor, Integer idade ) {
-		this.nome = nome;
-		this.cor = cor;	
-		this.idade = idade;
-	}*/
-	
-	
+	   
 
 }
